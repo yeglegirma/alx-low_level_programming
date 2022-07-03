@@ -1,2 +1,2 @@
-int main()
+#!/bin/bash
 printf("string");
